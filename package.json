@@ -2,11 +2,8 @@
   "name": "networth-meta",
   "version": "0.0.0",
   "description": "Typescript interfaces and classes for Networth",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha",
-    "cover": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec"
-  },
+  "main": "lib/index.js",
+  "typings": "lib/index",
   "engines": {
     "node": ">=0.10.0"
   },

@@ -1,6 +1,6 @@
 # networth-meta
 
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+[![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/nnetworth/networth-meta.svg?branch=master)](https://travis-ci.org/nnetworth/networth-meta) [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
 ## Installation
 
